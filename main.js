@@ -27,8 +27,8 @@ var pct =new Array(9);
     var color =color1;
     //Select the text color
     var colortxt = colortxt1;
-    var gendertext1 = "It is a She!";
-    var gendertext2 = "It is a He!";
+    var gendertext1 = "It is a Girl!";
+    var gendertext2 = "It is a Boy!";
     var gendertext3= "It is a Demo!";
     //Select the gender text
     var gendertext = gendertext1;
